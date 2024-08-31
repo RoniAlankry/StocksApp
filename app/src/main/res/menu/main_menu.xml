@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/default_image"
+        android:title="@string/Home"/>
+
+    <item
+        android:id="@+id/add"
+        android:enabled="true"
+        android:icon="@drawable/add"
+        android:title="@string/Add"/>
+
+
+    <item
+        android:id="@+id/expensive_items"
+        android:enabled="true"
+        android:icon="@drawable/add_expensive"
+        android:title="@string/expensive_items"/>
+
+    <item
+        android:id="@+id/addItemButton"
+        android:enabled="true"
+        android:icon="@drawable/default_image"
+        android:title="@string/Alerts"/>
+</menu>
